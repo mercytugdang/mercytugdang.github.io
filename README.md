@@ -54,7 +54,7 @@
 <tr>
 <td>Analiza Tugdang</td>
 <td>Sister</td>
-<td>18</td>
+<td>20</td>
 
 </tr>
 <tr>
