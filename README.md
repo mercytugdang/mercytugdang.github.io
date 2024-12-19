@@ -47,7 +47,7 @@
 <td>28</td>
 </tr>
 <tr>
-</td>Elizabeth Tugdang</td>
+<td>Elizabeth Tugdang</td>
 <td>Sister</td>
 <td>26</td>
 </tr>
