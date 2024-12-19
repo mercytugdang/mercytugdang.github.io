@@ -13,9 +13,9 @@
 <img src="Meme!.jpg" alt="Profile Picture" width="200">
 
 
-<p>Hello! My name is Mercy Tugdang.I am 19 Years old from Brgy.Camingawan,I choose BSIT because i want to learn more about technology and explore my knowledge  .</p>
+<p>Hello! My name is Mercy Tugdang.I am 19 Years old from Brgy.Camingawan.I like watching amine like One piece & etc.I also love traveling and listening to music. I choose BSIT because i want to learn more about technology and explore my knowledge  .
 
-
+</p>
 <h2>My Hobbies</h2>
 <ul>
 <li>Traveling</li>
@@ -29,17 +29,17 @@
 <tr>
 <th>Mercy Tugdang</th>
 <th>student</th>
-<th>21</th>
+<th>19</th>
 </tr>
 <tr>
 <td>Lydia Tugdang</td>
 <td>Mother</td>
-<td>45</td>
+<td>62</td>
 </tr>
 <tr>
 <td>Benedicto Tugdang</td>
 <td>Father</td>
-<td>44</td>
+<td>60</td>
 </tr>
 <tr>
 <td>Lilibeth Tugdang</td>
